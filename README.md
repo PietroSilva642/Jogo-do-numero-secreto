@@ -1,0 +1,1 @@
+O Jogo do Número Secreto é uma simples brincadeira onde o jogador deve tentar adivinhar um número aleatório gerado pelo sistema. O número secreto é sorteado entre 1 e 60, e o jogador deve fazer suposições para acertá-lo. O sistema irá fornecer dicas dizendo se o número secreto é maior ou menor que o chute dado, até que o jogador acerte o número.
